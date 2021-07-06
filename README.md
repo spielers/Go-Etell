@@ -52,6 +52,5 @@ limitations under the License.
 ```
 
 ## Author & support
-This project is created by [Sahdeep Singh](https://github.com/iamSahdeep) but with lots of support and help.
 
 Made with <img src="https://cdn-images-1.medium.com/max/1200/1*2yFbiGdcACiuLGo4dMKmJw.jpeg" width="90" height="35">
